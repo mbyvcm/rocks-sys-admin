@@ -1,2 +1,5 @@
 # rocks-sys-admin
-key commands
+
+
+### check compute node status
+``$ tentake1 uptime``
